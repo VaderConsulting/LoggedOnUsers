@@ -1,6 +1,6 @@
 # LoggedOnUsers
 
-VB6 WinForms utility (`LoggedOn.exe`) that lists currently logged-on users on the machine or domain context it targets.
+VB6 Logged On Users utility (`LoggedOn.exe`) that enumerates computers, retrieves interactive usernames into a list and tree, and supports idle/filter controls for the query. Open `LoggedOn.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
